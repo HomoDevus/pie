@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.donut-chart {
+    cursor: pointer;
+}
